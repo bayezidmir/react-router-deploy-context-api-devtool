@@ -1,0 +1,4 @@
+conditional rendering
+1. element variable
+2. ternary operator
+3. and operator or shorthand //if true will active "cart.length==3 && <p>Hello</p>"

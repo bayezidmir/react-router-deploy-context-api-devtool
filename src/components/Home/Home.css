@@ -10,3 +10,7 @@ main {
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
+
+.cart-container-green {
+  background-color: limegreen;
+}

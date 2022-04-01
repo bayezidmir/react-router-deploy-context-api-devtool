@@ -1,4 +1,6 @@
-import React from "react";
+import React, { useContext } from "react";
+import { GreetContext } from "../Home/Home";
+import OrderReview from "../OrderReview/OrderReview";
 
 const Cart = ({ cart, remove }) => {
   return (
